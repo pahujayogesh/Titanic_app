@@ -47,7 +47,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 📮 Contact")
     st.markdown("""
-    Made with ❤️ by Your Name
+    Made with ❤️ by Yogesh Pahuja
     - [GitHub](https://github.com/pahujayogesh)
     - [LinkedIn](https://www.linkedin.com/in/yogesh-pahuja-a452251b2)
     """)
@@ -251,7 +251,7 @@ with tab4:
 footer_html = """
 <div class="footer">
     <div class="footer-content">
-        <span>Made with ❤️ by Your Name</span>
+        <span>Made with ❤️ by Yogesh Pahuja</span>
         <a href="https://github.com/pahujayogesh" target="_blank">GitHub</a>
         <a href="https://www.linkedin.com/in/yogesh-pahuja-a452251b2" target="_blank">LinkedIn</a>
     </div>
