@@ -7,6 +7,12 @@ This interactive dashboard analyzes the survival patterns of Titanic passengers 
 - Statistical correlation analysis
 - Predictive modeling using Logistic Regression
 
+## 📊 Flow Diagram
+
+Here’s a flow diagram showing the overall process of the Titanic Survival Analysis app:
+
+![Flow Diagram](Titanic_app_flow.jpg)
+
 ## 📊 Features
 
 ### 1. **Data Exploration**
@@ -61,3 +67,7 @@ You can install the required dependencies using pip:
 
 ```bash
 pip install streamlit pandas numpy seaborn matplotlib scikit-learn
+```
+
+## Visit Live streamlit app
+- **https://yogesh-titanic-app.streamlit.app/**
